@@ -1,2 +1,2 @@
 # Risk_Task
-Modelos de Riesgos en R 
+Modelos de Riesgos (Scoring y Arboles de desicion) en R 
